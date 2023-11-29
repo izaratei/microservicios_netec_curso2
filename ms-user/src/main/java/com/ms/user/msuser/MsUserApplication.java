@@ -2,7 +2,7 @@ package com.ms.user.msuser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//comentario 3
+//comentario 4.5
 @SpringBootApplication
 public class MsUserApplication {
 
